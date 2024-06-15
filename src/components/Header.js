@@ -64,7 +64,7 @@ const Header = () => {
         <Link to="/" className='flex items-center gap-2'>
           {/* Logo link img */}
           <img src={Logo} className='w-8 object-cover' alt="Logo" />
-          <p className='text-headingColor text-xl font-bold'>Gupta</p>
+          <p className='text-headingColor text-xl font-bold'>Taco Bell</p>
         </Link>
         <div className='flex items-center gap-8'>
           {/* ml-auto is classname used for marginleft-auto which pushes the items to the right side */}
@@ -142,7 +142,7 @@ const Header = () => {
         <Link to="/" className='flex items-center gap-2'>
           {/* Logo link img */}
           <img src={Logo} className='w-8 object-cover' alt="Logo" />
-          <p className='text-headingColor text-xl font-bold'>Gupta</p>
+          <p className='text-headingColor text-xl font-bold'>Taco Bell</p>
         </Link>
 
         <div className='relative'>
